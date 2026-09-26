@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "paltybuttuk-spec.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "paltybuttuk-spec.github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
