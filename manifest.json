@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Message Generator",
+  "short_name": "MsgGen",
+  "description": "Generate and send formatted messages with name, balance and time.",
+  "orientation": "any",
+  "scope": "/message-generator/",
+  "start_url": "/message-generator/",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
